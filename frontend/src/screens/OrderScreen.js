@@ -29,11 +29,7 @@ function OrderScreen() {
                       <ListGroup.Item> ${parseFloat(Number(price) + 120).toFixed(2)} </ListGroup.Item>
                     </ListGroup>
 
-                    <ListGroup className='py-3'>
-                        <Button>
-                           Place Order
-                        </Button>
-                    </ListGroup>
+                    
                 </Col>
             </Row>
         </div>
