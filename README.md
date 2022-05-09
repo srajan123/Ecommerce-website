@@ -8,7 +8,7 @@
 **UI** : React-Bootstrap\
 **Front-end** : ReactJS, Redux, JavaScript\
 **Back-end** : Django, Django-REST Framework (DRF), Python\
-**User Authentication type** : JWT (JSON Web Token) Authentication\ 
+**User Authentication type** : JWT (JSON Web Token) Authentication\
 **Database** : PostgreSQL\
 **Other technologie**s : ORM, MVT architecture, REST APIs, OOPs, Postman\
 
