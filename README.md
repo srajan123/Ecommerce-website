@@ -1,8 +1,8 @@
-# Ecommerce website 
+# 🛒 Ecommerce website 
 
 > ### **Link to Project** : http://srajan02.pythonanywhere.com/
 
-# Tech-Stack Used
+# Tech-Stack used
 
 **UI** : React-Bootstrap\
 **Front-end** : ReactJS, Redux, JavaScript\
