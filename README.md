@@ -10,7 +10,7 @@
 **Back-end** : Django, Django-REST Framework (DRF), Python\
 **User Authentication type** : JWT (JSON Web Token) Authentication\
 **Database** : PostgreSQL\
-**Other technologie**s : ORM, MVT architecture, REST APIs, OOPs, Postman\
+**Other technologie**s : ORM, MVT architecture, REST APIs, OOPs, Postman
 
 
 
