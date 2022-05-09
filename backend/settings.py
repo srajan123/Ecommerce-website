@@ -91,7 +91,7 @@ DATABASES = {
         "ENGINE": "django.db.backends.postgresql",
         "NAME": "squarekart",
         "USER": "postgres",
-        "PASSWORD": "srajan",
+        "PASSWORD": "srajan", #Password uncovered, For test purpose only
         "PORT": "5432",
         "HOST": "localhost",
     }
